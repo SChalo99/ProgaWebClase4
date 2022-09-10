@@ -1,5 +1,21 @@
-p {
+h1 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20;
-    color: #ff0088;
+    color: aqua;
+    font-family:fantasy;
+}
+
+#subtituloPrincipal{
+    color: rgb(39, 163, 56)
+}
+
+.parrafo{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: black;
+    color: aquamarine;
+}
+.blockquote{
+    font-style: italic;
 }
