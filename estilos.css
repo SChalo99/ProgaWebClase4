@@ -22,3 +22,16 @@ body{
 table{
     color: aquamarine
 }
+.pop-up{
+    display: none;
+    background-color: rgb(183, 206, 206);
+    position: fixed;
+    opacity: 50%;
+    width: 50%;
+    height: 50%;
+    float: right;
+}
+
+a:hover{
+    background-color: aliceblue
+}
